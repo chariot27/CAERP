@@ -1,0 +1,17 @@
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\bin\Debug\net8.0\CAERP.Application.deps.json
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\bin\Debug\net8.0\CAERP.Application.dll
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\bin\Debug\net8.0\CAERP.Application.pdb
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\bin\Debug\net8.0\CAERP.Domains.dll
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\bin\Debug\net8.0\CAERP.Infra.Data.dll
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\bin\Debug\net8.0\CAERP.Domains.pdb
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\bin\Debug\net8.0\CAERP.Infra.Data.pdb
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\obj\Debug\net8.0\CAERP.Application.csproj.AssemblyReference.cache
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\obj\Debug\net8.0\CAERP.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\obj\Debug\net8.0\CAERP.Application.AssemblyInfoInputs.cache
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\obj\Debug\net8.0\CAERP.Application.AssemblyInfo.cs
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\obj\Debug\net8.0\CAERP.Application.csproj.CoreCompileInputs.cache
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\obj\Debug\net8.0\CAERP.Ap.EAE3A781.Up2Date
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\obj\Debug\net8.0\CAERP.Application.dll
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\obj\Debug\net8.0\refint\CAERP.Application.dll
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\obj\Debug\net8.0\CAERP.Application.pdb
+C:\Users\maxta\source\repos\CAERP\CAERP.Application\obj\Debug\net8.0\ref\CAERP.Application.dll

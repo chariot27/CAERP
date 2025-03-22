@@ -1,0 +1,6 @@
+@CAERP.API_HostAddress = http://localhost:5049
+
+GET {{CAERP.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lwIzvxi2ZkqBHNmCo9hVZxAI6jzNWtUA0O0Ab18tpYo=",
+  "Source": "CAERP.API",
+  "BasePath": "_content/CAERP.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,11 @@
+C:\Users\maxta\source\repos\CAERP\CAERP.Domains\bin\Debug\net8.0\CAERP.Domains.deps.json
+C:\Users\maxta\source\repos\CAERP\CAERP.Domains\bin\Debug\net8.0\CAERP.Domains.dll
+C:\Users\maxta\source\repos\CAERP\CAERP.Domains\bin\Debug\net8.0\CAERP.Domains.pdb
+C:\Users\maxta\source\repos\CAERP\CAERP.Domains\obj\Debug\net8.0\CAERP.Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxta\source\repos\CAERP\CAERP.Domains\obj\Debug\net8.0\CAERP.Domains.AssemblyInfoInputs.cache
+C:\Users\maxta\source\repos\CAERP\CAERP.Domains\obj\Debug\net8.0\CAERP.Domains.AssemblyInfo.cs
+C:\Users\maxta\source\repos\CAERP\CAERP.Domains\obj\Debug\net8.0\CAERP.Domains.csproj.CoreCompileInputs.cache
+C:\Users\maxta\source\repos\CAERP\CAERP.Domains\obj\Debug\net8.0\CAERP.Domains.dll
+C:\Users\maxta\source\repos\CAERP\CAERP.Domains\obj\Debug\net8.0\refint\CAERP.Domains.dll
+C:\Users\maxta\source\repos\CAERP\CAERP.Domains\obj\Debug\net8.0\CAERP.Domains.pdb
+C:\Users\maxta\source\repos\CAERP\CAERP.Domains\obj\Debug\net8.0\ref\CAERP.Domains.dll
